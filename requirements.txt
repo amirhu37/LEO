@@ -1,5 +1,1 @@
-matplotlib==3.8.2
-numpy==1.26.4
-pymoo==0.6.1.1
-seaborn==0.13.2
 
